@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/e-juices/static/css/main.6f368946.css",
+    "main.css": "/e-juices/static/css/main.4be7c4d9.css",
     "main.js": "/e-juices/static/js/main.bae85719.js",
     "static/media/bootstrap-icons.woff?": "/e-juices/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
     "static/media/bootstrap-icons.woff2?": "/e-juices/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
@@ -10,11 +10,11 @@
     "static/media/BaiJamjuree-Regular.ttf": "/e-juices/static/media/BaiJamjuree-Regular.b6013786559eeb4c3543.ttf",
     "static/media/BaiJamjuree-Bold.ttf": "/e-juices/static/media/BaiJamjuree-Bold.da1cfc75e1ff64984f88.ttf",
     "index.html": "/e-juices/index.html",
-    "main.6f368946.css.map": "/e-juices/static/css/main.6f368946.css.map",
+    "main.4be7c4d9.css.map": "/e-juices/static/css/main.4be7c4d9.css.map",
     "main.bae85719.js.map": "/e-juices/static/js/main.bae85719.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f368946.css",
+    "static/css/main.4be7c4d9.css",
     "static/js/main.bae85719.js"
   ]
 }
